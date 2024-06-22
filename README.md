@@ -1,2 +1,2 @@
 # LTSRedesign
-Redesigning my website
+Redesigning my website to learn vue
